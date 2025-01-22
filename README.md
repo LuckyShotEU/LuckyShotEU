@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello, my name is Thomas. I've recently started my education at AspIT👋
+I really like to dive deep into history and I know quite a lot about ww2 in particular. I enjoy Counter-Strike and I love playing football. I'm 23 years old and I live by myself in Denmark.
+I've recently gotten an interest in web design and working more with computers, although I'm still very green. 
 
 <!--
 **LuckyShotEU/LuckyShotEU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
